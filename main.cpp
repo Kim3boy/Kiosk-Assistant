@@ -3,7 +3,7 @@
 #include <string>
 #include <stdexcept>
 
-// Base class for a generic item
+// Base class for a generic items in the kiosk
 class Item {
 protected:
     std::string name;
